@@ -1,3 +1,14 @@
-1 - 45 min ( crash course in strapi cms )
-2 - admin us:admin , ps:adminroot
-task 2,3 (35 min)
+step 1 => 45 min ( crash course in strapi cms )
+step 2 , 3 =>  took 35 min
+step 4 => took 1 hour
+step 5 => took 2 hours
+step 6 => took 3 hours
+
+
+It looks too long but I never used strapi , I nearly read most of the documentation ,
+plus the framework it self need more time to muture , don't have enough tutorials
+
+Hope to hear from you
+
+Thanks
+Nour Ahmed
