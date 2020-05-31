@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_lang_multi_langs",
+  "info": {
+    "name": "MultiLang",
+    "icon": "heading"
+  },
+  "options": {},
+  "attributes": {
+    "En": {
+      "type": "richtext"
+    },
+    "Es": {
+      "type": "richtext"
+    },
+    "De": {
+      "type": "richtext"
+    }
+  }
+}

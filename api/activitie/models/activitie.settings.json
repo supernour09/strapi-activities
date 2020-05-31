@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "activities",
+  "info": {
+    "name": "Activitie"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "lang.multi-lang"
+    },
+    "subTitle": {
+      "type": "component",
+      "repeatable": false,
+      "component": "lang.multi-lang"
+    },
+    "Description": {
+      "type": "component",
+      "repeatable": false,
+      "component": "lang.multi-lang"
+    },
+    "Pictures": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "Price": {
+      "type": "decimal"
+    }
+  }
+}
