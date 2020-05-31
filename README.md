@@ -1,6 +1,8 @@
 # Strapi application
 
-Admin Username = admin
+Admin Username = admin 
+
+
 Admin Password = adminroot
 
 DATABASE_HOST=127.0.0.1
