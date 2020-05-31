@@ -1,4 +1,6 @@
 # Strapi application
 
-Admin Username = admin
+Admin Username = admin 
+
+
 Admin Password = adminroot
