@@ -14,7 +14,7 @@
     "@sendgrid/mail": "^7.1.1",
     "knex": "<0.20.0",
     "mysql": "latest",
-    "strapi": "3.0.1",
+    "strapi": "3.6.8",
     "strapi-admin": "3.0.1",
     "strapi-connector-bookshelf": "3.0.1",
     "strapi-email-nodemailer": "^0.2.1",
